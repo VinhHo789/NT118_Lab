@@ -1,0 +1,10 @@
+<!-- res/animator/slide_out_left.xml -->
+<!-- res/animator/slide_out_left.xml -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:propertyName="translationX"
+        android:valueFrom="0.0"
+        android:valueTo="-1.0"
+        android:duration="@android:integer/config_mediumAnimTime"/>
+</set>
+
